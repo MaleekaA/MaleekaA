@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Maleeka Bakhtawar
+- 👀 I’m interested in ... Collaborative coding
+- 🌱 I’m currently learning Generative AI
